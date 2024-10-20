@@ -12,7 +12,6 @@ import org.springframework.web.client.RestTemplate;
 /**
  * 博客启动类
  *
-
  */
 @MapperScan("com.lyq.blog.dao")
 @SpringBootApplication
